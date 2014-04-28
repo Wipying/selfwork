@@ -1,0 +1,25 @@
+{
+    "testimonials":[
+	{
+            "title":"Siobhan Freegard, Netmums founder",
+            "imageFileName":"image1.jpg",
+            "text":"It's vital to plan, prepare and save hard before your baby arrives or you could face money worries in the precious first year. Netmums welcomes the baby costs calculator as a clear and simple way for parents to work out what they need to spend."
+        },
+	{
+            "title":"Alice Stableford, Student midwife",
+            "imageFileName":"image2.jpg",
+            "text":"It's really important when it comes to getting an idea of the costs involved. The baby costs calculator will help parents to do this properly and is a great addition to the Parent's guide to money. I will be recommending it to my patients."
+        },
+	{
+            "title":"Kate Pinder, Expectant mum",
+            "imageFileName":"image3.jpg",
+            "text":"Having a baby is a life-changing experience, and planning for the money side of things can be a bit daunting. The baby costs calculator is really easy to use and it gave me a much clearer idea of what all those baby essentials could cost in the first year."
+        },
+	{
+            "title":"Louise Silverton, Deputy General Secretary, The Royal College of Midwives",
+            "imageFileName":"image4.jpg",
+            "text":"The baby costs calculator will be a useful addition for the Parent's guide to money and will enable midwives to direct parents to easy-to-use resources to help them manage their finances and plan ahead."
+        }
+       
+    ]
+}

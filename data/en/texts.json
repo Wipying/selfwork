@@ -1,0 +1,78 @@
+{
+    "page":{
+        "title":"Baby costs calculator",
+        "framing_questions":{
+            "instructions":"Pick one of the following options and get started",
+            "question":[{
+                    "main":"Money is tight <br />right now",
+                    "sub":""
+                },
+                {
+                    "main":"Show me some <br />average  costs",
+                    "sub":""
+                },
+                {
+                    "main":"No expense <br />spared",
+                    "sub":""
+                }
+            ],
+            "submit":"Get started"
+        },
+        "intro":{
+
+            "html":"<h2 tabindex=\"1\" title=\"Did you know that a baby could cost as much as £7,200 or as little as £1,600 in their first year, excluding childcare? Use the calculator to check how much the essentials could cost you. The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven't included. Your choices are confidential - we won't see them, store them or pass them to anyone else.\">Did you know that a baby could cost as much as £7,200 or as little as £1,600 in their first year, excluding childcare? Use the calculator to check how much the essentials could cost you.</h1>  The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven't included. <br /><br /> Your choices are confidential &#150 we won't see them, store them or pass them to anyone else. <br />"
+
+			},
+        "maintool":{
+            "heading":[{
+                    "label":"What you'll need",
+                    "help":"<p>Click here to see what we’ve included in the estimated costs for each area and for hints and tips on how to save money if you need to.</p>"
+					
+                },
+                {
+                    "label":""
+                },
+                {
+                    "label":"Include",
+                    "help":"<p>Click in this column to change the items which are included in the estimated total cost.</p>"
+                },
+                {
+                    "label":"Estimated cost (&pound;)",
+                    "help":"<p>This shows the estimated cost in baby&#39;s first year at the level you&#39;ve chosen for each category.</p><p>Use the sliders to choose a level of spend, from budget to luxury, in each area.</p> <p>For milk and food, use the sliders to choose how you expect to feed your baby and see how much it may cost.</p><p>We’ll work out the total cost based on your choices.</p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven't included.</p>"
+                }
+            ]
+        },
+        "footer":{
+            "text":"We've estimated how much your baby could cost you through to their first birthday based on the options you've chosen.  Look to see what we've included in the estimated costs — you can remove anything you don't want.  Use the sliders to choose how much you want to spend in each area.",
+						"disclaimer": "Disclaimer: The Money Advice Service website and publications are here to help you manage your money better and make informed choices. They are intended for customers of UK financial services who live in the UK.  Our Money Advice Line can give you information and advice about your money on <span class=\"skype_pnh_print_container_1327052286\">0300 500 5000.</span><span class=\"skype_pnh_container\" dir=\"ltr\" tabindex=\"-1\"><span class=\"skype_pnh_mark\"></span></span> You might also need to consult a financial, legal or other professional adviser. The Money Advice Service is not liable for any damages (including, for example, damages for loss of business or loss of profits) arising from the user of the Money Advice Service website, or any material contained in it, or from any action or decision taken as a result of using our website or any such material. <br><br>&copy;The Money Advice Service &ndash; www.moneyadviceservice.org.uk."
+				},
+        "details":{
+            "heading":[{
+                    "label":"Items"
+                },
+                {
+                    "label":"Details"
+                },
+                {
+                    "label":"Cost",
+                    "help":"this shows the cost of each item at the spend level you've chosen"
+                },
+                {
+                    "label":"Include",
+                    "help":"Click in this column to change which items are included in the estimates"
+                }
+            ]
+        },
+		"print":{
+			"text": "Print"
+		},
+		"totaltext":{
+			"text1": "Your choices cost",
+			"text2": "in the baby's first year"
+			
+		},
+		"close":{
+			"text": "Close"
+		}
+    }
+}

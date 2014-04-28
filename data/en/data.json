@@ -1,0 +1,322 @@
+{
+    "expense":[{
+            "name":"Moses basket/crib",
+            "moretext":"Luxury",
+            "lesstext":"Budget",
+            "showtable":false,
+            "reviewtext":"We&#39;ve included: <ul><li>Moses basket with a stand or a crib with a mattress : from &pound40 to &pound300</li><li>Linen : from &pound20 to &pound60</li></ul> <p>Remember that babies grow quickly so they won&#39t be in a basket or crib for long, so it may be cheaper to go straight for a cot. </p><p>Use the slider to choose a level of spend, from budget to luxury. We&#39ll work out the total cost based on your choices. </p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Moses basket/crib",
+                    "cost":[{
+                            "value":60
+                        },
+                        {
+                            "value":105
+                        },
+                        {
+                            "value":155
+                        },
+                        {
+                            "value":190
+                        },
+                        {
+                            "value":360
+                        }
+                    ],
+                    "available":true,
+                    "description":"Moses basket with mattress; crib"
+                }
+            ]
+        },
+        {
+            "name":"Cot",
+            "moretext":"",
+            "lesstext":"",
+            "showtable":false,
+            "reviewtext":"We&#39ve included:<ul><li>Standard cot or cot bed : from &pound60 to &pound400</li><li>Cot mattress : from &pound15 to &pound200</li><li>Cot linen and bedding : from &pound20 to &pound100</li></ul><p>Even if you have a cot already, you may still want to buy a new mattress.</p.<br/><p>You might find that buying a &#39starter set&#39 of cot linen works out cheaper than buying sheets, blankets and bumpers separately, so check them out.</p><p>Use the slider to choose a level of spend, from budget to luxury.  We&#39 ll work out the total cost based on your choices. </p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Cot",
+                    "cost":[{
+                            "value":95
+                        },
+                        {
+                            "value":185
+                        },
+                        {
+                            "value":285
+                        },
+                        {
+                            "value":455
+                        },
+                        {
+                            "value":700
+                        }
+                    ],
+                    "available":true,
+                    "description":"Rain cover, footmuff and parasol"
+                }
+            ]
+        },
+        {
+            "name":"Nursery furniture",
+            "moretext":"",
+            "lesstext":"",
+            "showtable":false,
+            "reviewtext":"<p>We&#39ve included a changing unit and a small chest of drawers. These could cost from &pound100 to &pound1000.</p><p>It&#39 s tempting to fully furnish the nursery but it may be better to wait and see what items of furniture you&#39 ll actually need. Talk to friends and family to see what they did and didn&#39 t need when their baby was born. They may also be able to give or lend you furniture. </p><p>Check out parenting and auction websites &#151 many parents recycle unwanted baby things so you may be able to get some bargains.</p><p>Use the slider to choose a level of spend, from budget to luxury.  We&#39 ll work out the total cost based on your choices. </p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Nursery furniture",
+                    "cost":[{
+                            "value":100
+                        },
+                        {
+                            "value":350
+                        },
+                        {
+                            "value":550
+                        },
+                        {
+                            "value":800
+                        },
+                        {
+                            "value":1000
+                        }
+                    ],
+                    "available":true,
+                    "description":"changing unit, wardrobe"
+                }
+            ]
+        },
+        {
+            "name":"Buggy",
+            "moretext":"",
+            "lesstext":"",
+            "showtable":false,
+            "reviewtext":"We&#39ve included a buggy suitable from birth with a rain cover, foot muff and parasol. This could cost from &pound80 to &pound600.<p>If you buy a travel system you won&#39t need a separate buggy. Most include either a carrycot or car seat and a pushchair, and are suitable for babies from birth. Talk to friends and family &#151 they may be able to give or lend you baby equipment. </p><p>Check out parenting and auction websites &#151 many parents recycle unwanted baby things so you may be able to get some bargains. </p><p>Use the slider to choose a level of spend, from budget to luxury. We&#39ll work out the total cost based on your choices.</p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Buggy",
+                    "cost":[{
+                            "value":80
+                        },
+                        {
+                            "value":150
+                        },
+                        {
+                            "value":350
+                        },
+                        {
+                            "value":450
+                        },
+                        {
+                            "value":600
+                        }
+                    ],
+                    "available":true,
+                    "description":"You also have the option of a travel system which includes the buggy and car seat or you may like the option of a baby carrier which cost from £20 "
+                }
+            ]
+        },
+        {
+            "name":"Baby car seat ",
+            "moretext":"",
+            "lesstext":"",
+            "showtable":false,
+            "reviewtext":"<p>We&#39ve included a baby car seat suitable for up to around 9 months old. This could cost from &pound80 to &pound220.</p> <p>Talk to friends and family &#151 they may be able to give or lend you baby equipment. Check out parenting and auction websites &#151 many parents recycle unwanted baby things so you may be able to get some bargains. </p> <p>Remember you shouldn&#39t buy a second-hand car seat unless you&#39re sure it&#39s never been involved in a road traffic accident.</p> <p>If you buy a travel system you won&#39t need a separate car seat. Most include either a carrycot or car seat and a pushchair, and are suitable for babies from birth.</p><p>Use the slider to choose a level of spend, from budget to luxury.  We&#39ll work out the total cost based on your choices. </p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Baby car seat ",
+                    "cost":[{
+                            "value":80
+                        },
+                        {
+                            "value":115
+                        },
+                        {
+                            "value":130
+                        },
+                        {
+                            "value":170
+                        },
+                        {
+                            "value":220
+                        }
+                    ],
+                    "available":true,
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name":"Child car seat ",
+            "moretext":"",
+            "lesstext":"",
+            "showtable":false,
+            "reviewtext":"<p>We&#39ve included a second stage car seat suitable from around 9 months to 4 years old. This could cost from &pound100 to &pound300.</p> <p>Talk to friends and family &#151 they may be able to give or lend you baby equipment. Check out parenting and auction websites &#151 many parents recycle unwanted baby things so you may be able to get some bargains.</p> <p>Remember you shouldn&#39t buy a second&#45hand car seat unless you&#39re sure it&#39s never been involved in a road traffic accident.</p> <p>Use the slider to choose a level of spend, from budget to luxury.  We&#39ll work out the total cost based on your choices. </p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"fChild car seat",
+                    "cost":[{
+                            "value":100
+                        },
+                        {
+                            "value":150
+                        },
+                        {
+                            "value":200
+                        },
+                        {
+                            "value":250
+                        },
+                        {
+                            "value":300
+                        }
+                    ],
+                    "available":true,
+                    "description":""
+                }
+            ]
+        },
+        {
+            "name":"Other equipment",
+            "moretext":"",
+            "lesstext":"",
+            "showtable":false,
+            "reviewtext":"<p>We&#39ve included:</p><ul><li>High chair/booster seat : from &pound20 to &pound155</li><li>Baby monitor : from &pound25 to &pound175</li><li>Stair gate : from &pound15 to &pound100</li><li>Baby rocker/bouncer : from &pound15 to &pound130</li><li>Baby bath, toiletries and towels : from &pound30 to &pound100</li></ul><p>You can buy a lot of equipment for your baby, but think about what you&#39ll need &#151 and what you can afford. Talk to friends and family to see what they did and didn&#39t need when their baby was born. They may also be able to give or lend you clothes or equipment. </p> <p>Check out parenting and auction websites &#151 many parents recycle unwanted baby things so you may be able to get some bargains.</p><p>Use the slider to choose a level of spend, from budget to luxury.  We'll work out the total cost based on your choices.</p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Other equipment",
+                    "cost":[{
+                            "value":105
+                        },
+                        {
+                            "value":180
+                        },
+                        {
+                            "value":295
+                        },
+                        {
+                            "value":415
+                        },
+                        {
+                            "value":660
+                        }
+                    ],
+                    "available":true,
+                    "description":"We've inluded  high chair, baby monitor, a stair gates, baby bath and toilertires, baby bouncer or rocker"
+                }
+            ]
+        },
+        {
+            "name":"Clothing",
+            "moretext":"",
+            "lesstext":"",
+            "showtable":false,
+            "reviewtext":"For each age group (newborn, 3, 6, 9 and 12 months), we&#39ve included:</p><ul><li>Sleepsuits and vests : from &pound125 to &pound800 in total</li><li>Day wear (tops, trousers, knitwear etc) : from &pound250 to &pound1,000 in total</li><li>Outerwear (snowsuit, coat etc) : from &pound90 to &pound200 in total</li></ul><p>Babies grow very quickly, so &#39newborn&#39 clothes may only last you a couple of weeks. If your baby has a bigger than average birth weight, &#39newborn&#39 may be too small.</p> <p>Talk to friends and family and see if they can give or lend you clothes and equipment. Ask them what they did and didn&#39t need when their baby was born.</p> <p>Use the slider to choose a level of spend, from budget to luxury.  We&#39ll work out the total cost based on your choices. </p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Clothing",
+                    "cost":[{
+                            "value":465
+                        },
+                        {
+                            "value":640
+                        },
+                        {
+                            "value":790
+                        },
+                        {
+                            "value":1395
+                        },
+                        {
+                            "value":2000
+                        }
+                    ],
+                    "available":true,
+                    "description":"Includes basic rompers suits, vests per age group, 5 outfits per age group, snow suit or coat equivalent"
+                }
+            ]
+        },
+        {
+            "name":"Nappies",
+            "moretext":"",
+            "lesstext":"",
+            "showtable":false,
+            "reviewtext":"We&#39ve assumed you&#39ll be using disposable nappies. We&#39ve included:</p><ul><li>5 packs of 36 nappies each month &#151 2,160 nappies in total &#151 costing from &pound230 to &pound360</li><li>Nappy sacks, wipes and creams : &pound100</li></ul><p>You will need more nappies in baby&#39s first months (a newborn will need on average 9 nappies a day) and less as they get older.</p> <p>Use the slider to choose a level of spend, from budget to luxury.  We&#39ll work out the total cost based on your choices. </p> <p>There&#39s little difference in the cost of using reusable or disposable nappies in the first year. But re&#45usable nappies may save you money from the second year onwards and with subsequent children, when the initial costs are recouped. You can buy starter kits of reusable nappies to try out, at a small cost, to see if they&#39re right for you.</p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Nappies",
+                    "cost":[{
+                            "value":330
+                        },
+                        {
+                            "value":360
+                        },
+                        {
+                            "value":395
+                        },
+                        {
+                            "value":420
+                        },
+                        {
+                            "value":460
+                        }
+                    ],
+                    "available":true,
+                    "description":"Figures need working out based on extra data. Opting for slider prices quoting price of various disposables from value to premium brands. Text will explain basis facts about using reusable nappies and set up cost of this method. "
+                }
+            ]
+        },
+        {
+            "name":"Milk",
+            "moretext":"Bottle only",
+            "lesstext":"Breast only",
+            "showtable":false,
+            "reviewtext":"<p>How you feed your baby is a personal decision. Use the slider to choose how you want to feed your baby, from breast only to bottle only. </p> <p>Remember, even if you breast feed to start with, you may want to move on to bottle feeding later, for example if you go back to work or study. If so, you can use the slider to show how much of baby&#39s first year you plan to breast feed for. We&#39ll work out the total cost based on your choices. </p> <p>If you bottle feed from birth we&#39ve assumed that you&#39ll need to spend &pound400 on formula milk. We&#39ve assumed that breast milk is free.</p> <p>For both breast and bottle feeding, we&#39ve included a cost of &pound50 to cover the cost of equipment such as bottles and a steriliser. If you&#39re breastfeeding you may need lanolin ointment, a hot/cold gel pack, nursing bras and pads,and a breast pump.</p> <p>There are lots of additional extras which can cut time and make meal times while travelling easier. Bottle warming flasks, microwave sterilising bags, thermal bottle carry packs, sterilising wipes and solution are nice to have if you can afford it, but not essential. </p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Milk",
+                    "cost":[{
+                            "value":50
+                        },
+                        {
+                            "value":150
+                        },
+                        {
+                            "value":250
+                        },
+                        {
+                            "value":350
+                        },
+                        {
+                            "value":450
+                        }
+                    ],
+                    "available":true,
+                    "description":"The cost of formula or breast includes sterilser and bottles. No details table just text on formula (to be supplied with copy) 0 formula =100% breast feeding. Figure for calculator is figure highlighted in green. "
+                }
+            ]
+        },
+        {
+            "name":"Food",
+            "moretext":"Bought only",
+            "lesstext":"Homemade only",
+            "showtable":false,
+            "reviewtext":"<p>You can usually start your baby on solids at around six months old &#151 usually with baby rice mixed with breast milk or formula. Babies typically don&#39t eat a lot of solid foods right away &#151 they&#39re an addition to their diet. </p> <p>You can mash food that you&#39ve prepared for yourself which will add only a small cost to your shopping bill. Alternatively if you&#39re using only shop&#45bought food, we&#39ve assumed that from 6 months, you use 3 jars a day costing &pound420 in total. </p> <p>In both cases, we&#39ve included a cost of &pound100 to cover snacks and equipment such as bibs and baby cups, bowls and spoons.</p><p>Use the slider to show how much of baby&#39s food you&#39ll make yourself and how much will be bought. We&#39ll work out the total cost based on your choices. </p><p>The costs are only a guide based on our own research.  You may be able to find things more cheaply, or you may want things that we haven&#39t included.</p>",
+            "item":[{
+                    "name":"Food",
+                    "cost":[{
+                            "value":100
+                        },
+                        {
+                            "value":205
+                        },
+                        {
+                            "value":310
+                        },
+                        {
+                            "value":415
+                        },
+                        {
+                            "value":520
+                        }
+                    ],
+                    "available":true,
+                    "description":"Work on  the same principle as formula and breast slider. Homemade cost of £0 at one end and 100% prepared food at the other. Use total highlighted in green. "
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+use innomabdb_torrang;
+set names utf8;
+set character set utf8;
+create table users(	id int auto_increment,	userid varchar(50),	password varchar(100),	primary key(id) );

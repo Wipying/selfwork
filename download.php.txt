@@ -1,0 +1,94 @@
+1.0 User Signup Process
+
+1.1 To custom build a library class to handle User Registration and
+Validation process to enable future support of API Engine for User
+Validation.
+
+1.2 To register, the user will provide the following
+i. Product Secret Code: * - Required.
+ii. Name: * - Required
+iii. Username: * - Required. Minimum 6 alphanumeric characters validated
+against database as unique user via AJAX.
+iv. Password: * - Required. Minimum 6 alphanumeric characters with AJAX
+password strength indicator.
+v. Confirm Password: * - Required, validate matching password.
+vi. Email Address: * - Required. Validate against unique email in
+database via AJAX
+vii. Captcha: * - Required. Integrated with Re-captcha Tool.
+viii. Agree to Terms & Conditions.
+
+1.3 Product Secret Code Validation
+i. 1st level code validation on code algorithm via AJAX.
+ii. 2nd level validation if the code is registered by decoding the batch
+code and match the encrypted code in database.
+iii. Old secret codes to be converted to new format secret code and
+assigned designated Product Code.
+
+1.4 If the Product Secret code is valid and not registered,
+i. The screen will show the message “Congratulations! You have purchased
+a genuine Rainbow Loom product.”
+ii. The user is auto login.”
+
+1.5 If the code is invalid,
+i. The screen will show the message “Sorry, the code is invalid. No
+matching secret code found in Rainbow Loom system. Please try again.”
+
+1.6 If the code has been used,
+i. The screen will show the message “Sorry, the code is already
+registered in Rainbow Loom system. Please login to the system.”
+
+1.7 If User forgot Username, show a page with 2 options.
+i. put in the email address (option 1)
+ii. Secret code (option 2).
+iii. Upon submitting, the user name will display.
+
+1.8 If forgot Password, show a page with 2 options.
+i. The user can either put in the email address (option 1)
+ii. Secret code (option 2).
+iii. If chosen email address (option 1), the user will receive a link
+(URL) with via email. Clicking on the link, will open up the default
+browser and auto login to the account and update the password. The link
+is time sensitive and expired in 8 hours time.
+iv. If chosen secret code (option 2), upon matching, the user will auto
+login and update the password. The link is time sensitive and expired in
+8 hours time.
+
+1.9 Additional note.
+i. One unique secret code can only associate with one user account.
+ii. There is only one real time login per user. For example, if the user
+login on 2 computers or 2 different browsers, only the latest login will
+remain connected. One will be auto logout.
+iii. Request a Captcha on the registration page by RL.
+
+
+2.0 Admin Functions
+
+2.1 Admin to login from authorised IP with AdminID and Password to
+manage admin functions.
+
+2.2 User Management
+i. Search User by
+• UserID
+• Email Address
+• Secret Code
+ii. Edit User Profile
+• Name
+• Email Address
+iii. Mass Mail User
+
+3.0 Infrastructure Setup
+
+3.1    Database setup as transactional database with stored procedures and queue management to manage the load and capacity.
+
+3.2 Index Engine to index each batch of codes to speed up code matching.
+
+3.3 To restrict the maximum concurrent database query to 8,000 connections.
+
+3.4 Advance Server Monitor Tool to notify designated email address on
+server services down or overload.
+
+3.5 Automated code database backup
+i. Instantly to mirror secondary drive
+ii. Hourly to external backup server
+iii. Daily to 3rd party server
+iv. Backup are stored for 30 days before exported for safekeeping.
